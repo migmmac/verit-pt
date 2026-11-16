@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2rqm3adr0wmly.js"
+3:I[73228,["$2"],"default"]
+4:I[47345,["$2"],"default"]
+8:"/_next/static/chunks/3bs_ovlenwyyq.js"
+9:I[23190,["$2","$8"],"Proposal"]
+a:I[88657,["$2"],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[88657,["$2"],"$e"]
+10:"MetadataBoundary"
+11:I[88657,["$2"],"$10"]
+12:I[51748,["$2"],"IconMark"]
+:HL["/_next/static/chunks/1f0353tcjrjqu.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L9",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/3bs_ovlenwyyq.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1f0353tcjrjqu.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2rqm3adr0wmly.js","async":true}]],["$","html",null,{"lang":"pt","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","div",null,{"className":"wrap","children":["$","div",null,{"className":"page-intro","children":[["$","h1",null,{"children":"Esta página não existe."}],["$","p",null,{"className":"muted","children":"O endereço não corresponde a nenhuma página da Verit."}],["$","p",null,{"children":["$","a",null,{"className":"btn","href":"/","children":"Início"}]}]]}]}],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F7F9F8"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Verit — O teu trabalho. O teu vencimento."}],["$","meta","1",{"name":"description","content":"Verit — O teu trabalho. O teu vencimento. Percebe o teu horário. Confere o teu recibo. Transforma dúvidas em informação para agir."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.2-k_0nrg1xyh2.svg","sizes":"any","type":"image/svg+xml"}],["$","$L12","3",{}]]}]}],null]}],null]}],"p":"$@13","v":null,"s":"$6"}},"a":"$@14","u":"$@15","b":"x7gjg4sRGiMIVZ2oXT6WQ"}
+c:null
+6:300
+15:true
+6:C
+14:0
+5:"$undefined"
+13:"$undefined"
+d:"$undefined"
