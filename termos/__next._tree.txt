@@ -2,4 +2,4 @@
 :HL["/brand/verit-horizontal.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"termos","h":96,"c":"$Q2"}]]
-0:{"b":"xXBcbHUqQdIv7Dge9uz-3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"fQcJb8UgRJX-ZV9vV9kqZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
