@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,86940,e=>{"use strict";var o=e.i(71645);e.s(["LegacyHashRedirect",0,function({from:e,to:t}){return(0,o.useEffect)(()=>{window.location.hash===e&&window.location.replace(t)},[e,t]),null}])}]);
