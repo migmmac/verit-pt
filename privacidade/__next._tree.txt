@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/3o0yaokl0vn-_.css","style"]
+:HL["/_next/static/chunks/2-kdbgq0ei7hj.css","style"]
 :HL["/brand/verit-horizontal.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"privacidade","h":96,"c":"$Q2"}]]
-0:{"b":"FMNoOUsFpzTYnH5Jhz2Fo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9VITOOsCx7aveD0ea5Khx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
